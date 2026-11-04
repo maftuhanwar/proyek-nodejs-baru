@@ -4,8 +4,8 @@
   "description": "Proyek latihan menggunakan Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
+  "start": "node src/index.js"
+},
   "keywords": [
     "nodejs",
     "javascript"
